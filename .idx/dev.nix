@@ -15,6 +15,7 @@
     # Search for the extensions you want on https://open-vsx.org/ and use "publisher.id"
     extensions = [
       "golang.go"
+      "eamodio.gitlens"
     ];
     # Enable previews and customize configuration
     previews = {
